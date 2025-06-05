@@ -22,11 +22,11 @@ This is an advanced Python-based password strength checker that goes beyond basi
 Make the script executable (one-time setup):
 
 ```bash
-bash chmod +x check.sh
+ chmod +x check.sh
 
 
 ## 🚀 How to Run
 
 ```bash
-bash check.sh
+check.sh
 
