@@ -1,3 +1,4 @@
+
 # 🔐 Human-Like Password Strength Checker
 
 This is an advanced Python-based password strength checker that goes beyond basic rules. It analyzes passwords the way a real attacker might — detecting patterns, estimating crack time, checking for breaches, and more.
@@ -20,3 +21,6 @@ This is an advanced Python-based password strength checker that goes beyond basi
 
 ```bash
 bash check.sh
+=======
+# password-strength-checker
+>>>>>>> 7d984a4e6fef4727fef3a8dee5becb7876d0bc40
