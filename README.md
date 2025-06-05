@@ -19,13 +19,13 @@ This is an advanced Python-based password strength checker that goes beyond basi
 
 ## 🚀 How to Run
 
-## 🚀 How to Run
-
 Make the script executable (one-time setup):
 
 ```bash
-chmod +x check.sh
+bash chmod +x check.sh
 
+
+## 🚀 How to Run
 
 ```bash
 bash check.sh
